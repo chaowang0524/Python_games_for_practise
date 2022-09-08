@@ -184,7 +184,7 @@ while True:
     # check the hand when game begins
     show_hand(player_hand, dealer_hand)
 
-    # check the hand to see if there's an immediate winner
+    # check the hand to see if there's a winner
     real_time_check_value(player_hand, dealer_hand)
 
     while playing:
