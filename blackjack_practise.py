@@ -1,4 +1,5 @@
 import random
+from re import S
 
 # set the cards
 suits = ('Hearts', 'Diamonds', 'Spades', 'Clubs')
